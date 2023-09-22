@@ -9,8 +9,8 @@ Use this project responsibly and don't be a jerk. Some websites don't like being
 
 Here are some additional tips:
 
-Don't overload the websites you're scraping.
-Respect robots.txt files.
-Be transparent about what data you're collecting and how you're using it.
-Don't scrape personal data without permission.
-If you're not sure if something is legal or ethical, ask a lawyer.
+- Don't overload the websites you're scraping.
+- Respect robots.txt files.
+- Be transparent about what data you're collecting and how you're using it.
+- Don't scrape personal data without permission.
+- If you're not sure if something is legal or ethical, ask a lawyer.
