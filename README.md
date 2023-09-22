@@ -4,8 +4,7 @@ ETL Project 1: Web Scraping and Transforming to SQLite with Python (Easy)
 Disclaimer:
 
 This web scraping project is for educational purposes only. I'm not responsible for what you do with it.
-
-Use this project responsibly and don't be a jerk. Some websites don't like being scraped, so check the terms of service before you start.
+Some websites don't like being scraped, so check the terms of service before you start.
 
 Here are some additional tips:
 
